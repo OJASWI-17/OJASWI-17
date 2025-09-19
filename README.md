@@ -1,11 +1,9 @@
 # 👋 Hi, I'm OJASWI JASWAL  
-### 🚀 Backend Developer | Passionate About Building Scalable Systems  
-
+### 🚀 Backend Developer
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ojaswi-17&theme=dracula&title=Commits,Repositories,Experience,Followers,PullRequest&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 👨‍💻 About Me  
 - 🔭 **Currently Working On:** [CropInsight](https://github.com/OJASWI-17/backend_crop)  
-- 💬 **Ask Me About:** Django, Celery, Channels, PostgreSQL  
 - 📫 **Reach Me At:** [ojaswijaswal2004@gmail.com](mailto:ojaswijaswal2004@gmail.com)  
 - 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1Eky7MbOVHzegTqlggXNSvPfRN9pX7Zxm/view)
 
@@ -21,16 +19,16 @@
 
 ### 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,html" height="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="MATLAB logo" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="POSTMAN logo"/>
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,html" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB logo" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="POSTMAN logo"/>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,js,react,redis,azure,github,git,cpp" height="30" style="margin:5px" />
+  <img src="https://skillicons.dev/icons?i=css,js,react,redis,azure,github,git,cpp" height="40" style="margin:5px" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,docker" height="30" style="margin:5px" />
+  <img src="https://skillicons.dev/icons?i=c,docker" height="40" style="margin:5px" />
 </p>
 
 ### 📊 GitHub Stats  
@@ -40,5 +38,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ojaswi-17&show_icons=true&locale=en" alt="GitHub Stats" width="410" />
   </div>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswi-17&theme=dracula" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswi-17&theme=dracula" alt="GitHub Streak" width="450" />
 </p>
