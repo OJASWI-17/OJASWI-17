@@ -21,25 +21,24 @@
 
 ### 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,html" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="MATLAB logo" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="POSTMAN logo"/>
+  <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,html" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="30" alt="MATLAB logo" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" alt="POSTMAN logo"/>
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,js,react,redis,azure,github,git,cpp" height="50" style="margin:5px" />
+  <img src="https://skillicons.dev/icons?i=css,js,react,redis,azure,github,git,cpp" height="30" style="margin:5px" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,docker" height="50" style="margin:5px" />
+  <img src="https://skillicons.dev/icons?i=c,docker" height="30" style="margin:5px" />
 </p>
 
 ### 📊 GitHub Stats  
 <p align="left">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ojaswi-17&show_icons=true&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojaswi-17&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ojaswi-17&theme=dracula)
-
+  <div style="display: flex; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ojaswi-17&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="310" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ojaswi-17&show_icons=true&locale=en" alt="GitHub Stats" width="410" />
+  </div>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswi-17&theme=dracula" alt="GitHub Streak" width="400" />
 </p>
