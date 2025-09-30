@@ -5,7 +5,6 @@
 ### 👨‍💻 About Me  
 - 🔭 **Currently Working On:** [CropInsight](https://github.com/OJASWI-17/backend_crop)  
 - 📫 **Reach Me At:** [ojaswijaswal2004@gmail.com](mailto:ojaswijaswal2004@gmail.com)  
-- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1Eky7MbOVHzegTqlggXNSvPfRN9pX7Zxm/view)
 
 ### 🤝 Connect With Me  
 <p align="left">
