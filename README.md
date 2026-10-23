@@ -4,7 +4,7 @@
 another profile - https://github.com/oj-1717
 
 ### 👨‍💻 About Me  
-- 🔭 **Currently Working On:** [CropInsight](https://github.com/OJASWI-17/backend_crop)  
+- 🔭 **Currently Working On:** FX strategies
 - 📫 **Reach Me At:** [ojaswijaswal2004@gmail.com](mailto:ojaswijaswal2004@gmail.com)  
 
 ### 🤝 Connect With Me  
